@@ -1,0 +1,11 @@
+.vs/
+**/bin/
+**/obj/
+*.session
+*.session-*
+*.session.*
+*.user
+telegram-credentials.json
+.telegram-video-downloader-*.json*
+*.part
+*.part.state.json*
