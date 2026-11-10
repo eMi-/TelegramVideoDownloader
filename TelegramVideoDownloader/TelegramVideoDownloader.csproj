@@ -6,15 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
-    <StartupObject>OptimizedProgram</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="WTelegramClient" Version="4.4.7" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Remove="Program.cs" />
   </ItemGroup>
 
 </Project>
